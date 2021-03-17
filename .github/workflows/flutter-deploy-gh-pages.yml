@@ -24,6 +24,7 @@ jobs:
         with:
           channel: 'stable'
       - run: |
+          cd app
           flutter pub get
           flutter build web --release
       - name: Deploy
