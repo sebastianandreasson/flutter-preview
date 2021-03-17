@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/flutter-preview/static/js/main.2ccbee13.chunk.js",
-    "main.js.map": "/flutter-preview/static/js/main.2ccbee13.chunk.js.map",
+    "main.js": "/flutter-preview/static/js/main.d22c7bd6.chunk.js",
+    "main.js.map": "/flutter-preview/static/js/main.d22c7bd6.chunk.js.map",
     "runtime-main.js": "/flutter-preview/static/js/runtime-main.dfbd9152.js",
     "runtime-main.js.map": "/flutter-preview/static/js/runtime-main.dfbd9152.js.map",
     "static/js/2.182de26b.chunk.js": "/flutter-preview/static/js/2.182de26b.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.dfbd9152.js",
     "static/js/2.182de26b.chunk.js",
-    "static/js/main.2ccbee13.chunk.js"
+    "static/js/main.d22c7bd6.chunk.js"
   ]
 }
