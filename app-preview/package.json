@@ -1,5 +1,6 @@
 {
   "name": "app-preview",
+  "homepage": "/flutter-preview",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
