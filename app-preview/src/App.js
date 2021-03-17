@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <div className="phone">
         <div className="phone-inner">
-          <iframe title="App preview" src="/app"></iframe>
+          <iframe title="App preview" src={`${process.env.PUBLIC_URL}/app`}></iframe>
         </div>
         <img alt="Phone frame" src={frame}></img>
       </div>
