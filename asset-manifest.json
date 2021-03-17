@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.2ccbee13.chunk.js",
-    "main.js.map": "/static/js/main.2ccbee13.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0b0eaf9c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0b0eaf9c.js.map",
-    "static/js/2.182de26b.chunk.js": "/static/js/2.182de26b.chunk.js",
-    "static/js/2.182de26b.chunk.js.map": "/static/js/2.182de26b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.182de26b.chunk.js.LICENSE.txt": "/static/js/2.182de26b.chunk.js.LICENSE.txt",
-    "static/media/frame.0e6e0a41.svg": "/static/media/frame.0e6e0a41.svg"
+    "main.js": "/flutter-preview/static/js/main.2ccbee13.chunk.js",
+    "main.js.map": "/flutter-preview/static/js/main.2ccbee13.chunk.js.map",
+    "runtime-main.js": "/flutter-preview/static/js/runtime-main.dfbd9152.js",
+    "runtime-main.js.map": "/flutter-preview/static/js/runtime-main.dfbd9152.js.map",
+    "static/js/2.182de26b.chunk.js": "/flutter-preview/static/js/2.182de26b.chunk.js",
+    "static/js/2.182de26b.chunk.js.map": "/flutter-preview/static/js/2.182de26b.chunk.js.map",
+    "index.html": "/flutter-preview/index.html",
+    "static/js/2.182de26b.chunk.js.LICENSE.txt": "/flutter-preview/static/js/2.182de26b.chunk.js.LICENSE.txt",
+    "static/media/frame.0e6e0a41.svg": "/flutter-preview/static/media/frame.0e6e0a41.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b0eaf9c.js",
+    "static/js/runtime-main.dfbd9152.js",
     "static/js/2.182de26b.chunk.js",
     "static/js/main.2ccbee13.chunk.js"
   ]
