@@ -5,9 +5,9 @@ function App() {
     <div className="App">
       <div className="phone">
         <div className="phone-inner">
-          <iframe src="/flutter-preview/app/#/"></iframe>
+          <iframe title="App preview" src="/flutter-preview/app/#/"></iframe>
         </div>
-        <img src={frame}></img>
+        <img alt="Phone frame" src={frame}></img>
       </div>
     </div>
   );
